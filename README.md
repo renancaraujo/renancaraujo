@@ -12,6 +12,7 @@ Here is a pudding for you:
 
 - https://github.com/fireslime/photo_view
 - https://github.com/flame-engine/flame
+- https://github.com/renancaraujo/cached_value
 - https://github.com/flame-engine/trex-flame
 - https://github.com/renancaraujo/bitmap
 - https://github.com/renancaraujo/daylight
