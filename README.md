@@ -2,7 +2,7 @@
 
 My name is [Renan C. Araújo](https://caraujo.me) and I do some stuff.
 
-Here is a pudding for you:
+Here is a pudding:
 
 <img alt="a pudding" src="http://pudim.com.br/pudim.jpg" width="200" />
 
