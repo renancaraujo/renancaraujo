@@ -1,15 +1,7 @@
-# To the Aveiro People
-
-https://github.com/renancaraujo/dart_frog_workshop_aveiroFSL
-
 
 ### Hello here ✌🏽
 
-My name is [Renan C. Araújo](https://caraujo.me) and I do some stuff.
-
-Here is a pudding:
-
-<img alt="a pudding" src="http://pudim.com.br/pudim.jpg" width="200" />
+My name is [Renan C. Araújo](https://renan.gg) and I do some stuff, mostly software.
 
 ### OSS projects:
 
