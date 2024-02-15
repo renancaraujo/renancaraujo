@@ -14,3 +14,6 @@ My name is [Renan C. Araújo](https://renan.gg) and I do some stuff, mostly soft
 - https://github.com/renancaraujo/axios-endpoints
 - https://github.com/flame-engine/flame_splash_screen
 - https://github.com/renancaraujo/niks
+
+
+![](https://komarev.com/ghpvc/?username=renancaraujo)
