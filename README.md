@@ -16,4 +16,6 @@ My name is [Renan C. Araújo](https://renan.gg) and I do some stuff, mostly soft
 - https://github.com/bluefireteam/bitmap
 - https://github.com/renancaraujo/daylight
 - https://github.com/bluefireteam/photo_view
+- https://github.com/bluefireteam/ship_game
+- https://github.com/bluefireteam/liftoff
 
